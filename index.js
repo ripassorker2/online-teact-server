@@ -18,6 +18,9 @@ app.get("/courses", (req, res) => {
 
 app.get('/courses/:id',(req,res)=>{
     const id =req.params.id
+    console.log(id);
+    const singleCourse=courses.find(course=>course.id==id)
+    res.send(singleCourse)
     
 })
 
