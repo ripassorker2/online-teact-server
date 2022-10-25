@@ -3,42 +3,50 @@
     "id": 1,
     "name": "Firebase",
     "picture": "https://firebase.google.com/images/social.png",
-    "price": 73
+    "price": 73,
+    "rating": 4.6,
+    "details": "Firebase is a set of hosting services for any type of application (Android, iOS, Javascript, Node.js, Java, Unity, PHP, C++ ...). It offers NoSQL and real-time hosting of databases, content, social authentication (Google, Facebook, Twitter and Github), and notifications, or services, such as a real-time communication server.Firebase evolved from Envolve, a prior startup founded by James Tamplin and Andrew Lee in 2011. Envolve provided developers an API that enables the integration of online chat functionality into their websites. After releasing the chat service, Tamplin and Lee found that it was being used to pass application data that were not chat messages. Developers were using Envolve to sync application data such as game state in real time across their users. Tamplin and Lee decided to separate the chat system and the real-time architecture that powered it.[1] They founded Firebase as a separate company in 2011 and it launched to the public in April 2012."
   },
   {
     "id": 2,
     "name": "Phython",
     "picture": "https://blog.eduonix.com/wp-content/uploads/2018/09/Scientific-Python-Scipy.jpg",
-    "price": 78
+    "price": 78,
+    "details": "Python is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation.[32] Python is dynamically-typed and garbage-collected. It supports multiple programming paradigms, including structured (particularly procedural), object-oriented and functional programming. It is often described as a 'batteries included' language due to its comprehensive standard library.[33][34]Guido van Rossum began working on Python in the late 1980s as a successor to the ABC programming language and first released it in 1991 as Python 0.9.0.[35] Python 2.0 was released in 2000 and introduced new features such as list comprehensions, cycle-detecting garbage collection, reference counting, and Unicode support. Python 3.0, released in 2008, was a major revision that is not completely backward-compatible with earlier versions. Python 2 was discontinued with version 2.7.18 in 2020.[36]"
   },
   {
     "id": 3,
     "name": "Bootstrap",
     "picture": "https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-social.png",
-    "price": 54
+    "price": 54,
+    "details": "Bootstrap is an HTML, CSS & JS Library that focuses on simplifying the development of informative web pages (as opposed to web apps). The primary purpose of adding it to a web project is to apply Bootstrap's choices of color, size, font and layout to that project. As such, the primary factor is whether the developers in charge find those choices to their liking. Once added to a project, Bootstrap provides basic style definitions for all HTML elements. The result is a uniform appearance for prose, tables and form elements across web browsers. In addition, developers can take advantage of CSS classes defined in Bootstrap to further customize the appearance of their contents. For example, Bootstrap has provisioned for light- and dark-colored tables, page headings, more prominent pull quotes, and text with a highlight."
   },
   {
     "id": 4,
     "name": "GitHub",
     "picture": "https://play-lh.googleusercontent.com/PCpXdqvUWfCW1mXhH1Y_98yBpgsWxuTSTofy3NGMo9yBTATDyzVkqU580bfSln50bFU",
-    "price": 48
+    "price": 48,
+    "details": "GitHub is an Internet hosting service for software development and version control using Git. It provides the distributed version control of Git plus access control, bug tracking, software feature requests, task management, continuous integration, and wikis for every project.[5] Headquartered in California, it has been a subsidiary of Microsoft since 2018.[6] It is commonly used to host open source software development projects.[7] As of June 2022, GitHub reported having over 83 million developers[8] and more than 200 million repositories,[9] including at least 28 million public repositories.[10] It is the largest source code host as of November 2021."
   },
   {
     "id": 5,
     "name": "React",
     "picture": "https://miro.medium.com/max/3600/1*HSisLuifMO6KbLfPOKtLow.jpeg",
-    "price": 98
+    "price": 98,
+    "details": "React (also known as React.js or ReactJS) is a free and open-source front-end JavaScript library[3] for building user interfaces based on UI components. It is maintained by Meta (formerly Facebook) and a community of individual developers and companies.[4][5][6] React can be used as a base in the development of single-page, mobile, or server-rendered applications with frameworks like Next.js. However, React is only concerned with state management and rendering that state to the DOM, so creating React applications usually requires the use of additional libraries for routing, as well as certain client-side functionality.[7][8]"
   },
   {
     "id": 6,
     "name": "Css",
     "picture": "https://tuhoclaptrinh.edu.vn/upload/post/16/02/49/ngon-ngu-css-la-gi-635813.jpg",
-    "price": 67
+    "price": 67,
+    "details": "Cascading Style Sheets  is a style sheet language used for describing the presentation of a document written in a markup language such as HTML or XML (including XML dialects such as SVG, MathML or XHTML).CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript CSS is designed to enable the separation of content and presentation, including layout, colors, and fonts This separation can improve content accessibility; provide more flexibility and control in the specification of presentation characteristics; enable multiple web pages to share formatting by specifying the relevant CSS in a separate .css file, which reduces complexity and repetition in the structural content; and enable the .css file to be cached to improve the page load speed between the pages that share the file and its formatting."
   },
   {
     "id": 7,
     "name": "Java script",
     "picture": "https://cdn.searchenginejournal.com/wp-content/uploads/2022/09/javascript-seo--6319dffbe1f82-sej-1520x800.png",
-    "price": 107
+    "price": 107,
+    "details": "JavaScript , often abbreviated as JS, is a programming language that is one of the core technologies of the World Wide Web, alongside HTML and CSS. As of 2022, 98% of websites use JavaScript on the client side for webpage behavior, often incorporating third-party libraries. All major web browsers have a dedicated JavaScript engine to execute the code on users' devices.JavaScript is a high-level, often just-in-time compiled language that conforms to the ECMAScript standard.[10] It has dynamic typing, prototype-based object-orientation, and first-class functions. It is multi-paradigm, supporting event-driven, functional, and imperative programming styles. It has application programming interfaces (APIs) for working with text, dates, expressions, standard data structures, and the Document Object Model (DOM). The ECMAScript standard does not include any input/output (I/O), such as networking, storage, or graphics facilities. In practice, the web browser or other runtime system provides JavaScript APIs for I/O.JavaScript engines were originally used only in web browsers, but are now core components of some servers and a variety of applications. The most popular runtime system for this usage is Node.js."
   }
 ]
