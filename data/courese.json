@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Firebase",
+    "picture": "https://firebase.google.com/images/social.png",
+    "price": 73
+  },
+  {
+    "id": 2,
+    "name": "Phython",
+    "picture": "https://blog.eduonix.com/wp-content/uploads/2018/09/Scientific-Python-Scipy.jpg",
+    "price": 78
+  },
+  {
+    "id": 3,
+    "name": "Bootstrap",
+    "picture": "https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-social.png",
+    "price": 54
+  },
+  {
+    "id": 4,
+    "name": "GitHub",
+    "picture": "https://play-lh.googleusercontent.com/PCpXdqvUWfCW1mXhH1Y_98yBpgsWxuTSTofy3NGMo9yBTATDyzVkqU580bfSln50bFU",
+    "price": 48
+  },
+  {
+    "id": 5,
+    "name": "React",
+    "picture": "https://miro.medium.com/max/3600/1*HSisLuifMO6KbLfPOKtLow.jpeg",
+    "price": 98
+  },
+  {
+    "id": 6,
+    "name": "Css",
+    "picture": "https://tuhoclaptrinh.edu.vn/upload/post/16/02/49/ngon-ngu-css-la-gi-635813.jpg",
+    "price": 67
+  },
+  {
+    "id": 7,
+    "name": "Java script",
+    "picture": "https://cdn.searchenginejournal.com/wp-content/uploads/2022/09/javascript-seo--6319dffbe1f82-sej-1520x800.png",
+    "price": 107
+  }
+]
