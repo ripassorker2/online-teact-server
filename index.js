@@ -16,13 +16,11 @@ app.get("/courses", (req, res) => {
   res.send(courses);
 });
 
-app.get('/courses/:id',(req,res)=>{
-    const id =req.params.id
-    console.log(id);
-    const singleCourse=courses.find(course=>course.id==id)
-    res.send(singleCourse)
-    
-})
+app.get("/courses/:id", (req, res) => {
+  const id = req.params.id;
+  const singleCourse = courses.find((course) => course.id == id);
+  res.send(singleCourse);
+});
 
 app.listen(port, () => {
   console.log(`Travel guru running on port, ${port}`);
