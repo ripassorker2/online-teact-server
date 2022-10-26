@@ -9,7 +9,7 @@ app.use(cors());
 const courses = require("./data/courese.json");
 
 app.get("/", (req, res) => {
-  res.send("online tech servar in running !!");
+  res.send("Server work is done !!");
 });
 
 app.get("/courses", (req, res) => {
